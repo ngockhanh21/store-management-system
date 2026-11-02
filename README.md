@@ -1,6 +1,6 @@
-# RETAIL PHONE STORE MANAGEMENT SYSTEM
+# PHONE STORE MANAGEMENT SYSTEM
 
-**Hệ thống Quản trị Cơ sở Dữ liệu Quan hệ cho Chuỗi Bán lẻ Thiết bị Di động**
+**Hệ thống Quản trị Cơ sở Dữ liệu Quan hệ cho Chuỗi Cửa hàng Điện thoại**
 
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/ngockhanh21/store-management-system/releases/tag/v1.0.0)
 [![Documentation](https://img.shields.io/badge/Documentation-PDF_Report-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/ngockhanh21/store-management-system/releases/tag/v1.0.0)
@@ -152,7 +152,7 @@ store-management-system/
 5. **Thực thi phân tích nghiệp vụ:**
    * Truy cập thư mục `TruyVanCaNhan/` và mở file `.sql` tương ứng của từng thành viên để chạy thử các kịch bản báo cáo.
 
->  Phải thực thi theo thứ tự lần lượt để không vi phạm ràng buộc khóa ngoại giữa các bảng.
+>  Thực thi theo thứ tự lần lượt để không vi phạm ràng buộc khóa ngoại giữa các bảng.
 
 ---
 
